@@ -1,0 +1,49 @@
+Topics studied in c language:
+
+
+Introduction: how does our system work and the basic common syntax
+
+Datatypes: Char, Float, etc..
+	: %d %c %f %lu etc...
+
+Operators
+
+Escape sequences
+
+if-else ladder:
+	if(){}
+	elseif(){}
+	else{]
+
+
+Switch case statement
+	switch(x){
+		Case 2:
+			//Code to be executed
+			Break;
+		Case 3: 
+			//Code to be executed
+			Break;
+		Default:
+			//Code to be executed
+			Break;
+		}
+
+
+Loops:
+	do-while loop
+	while loop
+	for loop
+
+Statements:
+	Break
+	Continue
+	goto
+
+Functions:
+	With argument and return value
+	With argument but without return value
+	without argument but with return value
+	without argument and without return value
+	Recurssions
+

@@ -1,0 +1,1 @@
+BINARY SEARCH ALGORITHM: repeatedly divide the array into halves 
